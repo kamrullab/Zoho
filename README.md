@@ -4,6 +4,14 @@
 
 
 
+**Table of Contents:**
+
+1. [Prerequisites🛠️](#prerequisites-%EF%B8%8F) <br>
+2. [Access Zoho Mail Setup 🚀](#step-1-access-zoho-mail-setup-)<br>
+3. [Configure MX Records ⚙️](#step-1-access-zoho-mail-setup-)<br>
+4. [SPF Record ☀️](#spf-record-%EF%B8%8F)<br>
+5. [Example DNS Configuration 🌐](#example-dns-configuration-)<br>
+6. [About This Repository 📚](#about-this-repository-)<br>
 
 
 This guide provides detailed instructions on how to activate Zoho Mail for your custom domain. With Zoho Mail, you can enjoy professional email services tailored to your domain name. Follow the steps below to set up MX and other DNS records.
