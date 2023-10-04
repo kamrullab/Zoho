@@ -1,9 +1,9 @@
-
+![image](https://github.com/kamrullab/Zoho/assets/128359757/ae944f70-29eb-4657-87f1-b3bfe1b9efed)
 
 # Activate Zoho for Your Domain 🔐
 
 
-![image](https://github.com/kamrullab/Zoho/assets/128359757/ae944f70-29eb-4657-87f1-b3bfe1b9efed)
+
 
 
 This guide provides detailed instructions on how to activate Zoho Mail for your custom domain. With Zoho Mail, you can enjoy professional email services tailored to your domain name. Follow the steps below to set up MX and other DNS records.
